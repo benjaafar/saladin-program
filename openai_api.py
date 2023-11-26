@@ -1,10 +1,18 @@
-#  "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")
 from openai import OpenAI
 import os
 
 class OpenAIChatClient:
+  
+    api_key = os.getenv('OPENAI_API_KEY')
+
+    if api_key is not None:
+     print("API Key found!")
+    # You can now use the api_key in your application
+    else:
+     print("API Key not set in environment variables.")  
+  
     def __init__(self):
-        self.client = OpenAI(api_key="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")
+        self.client = OpenAI(api_key= self.api_key )
         self.messages = []
 
     def add_system_message(self, content):
@@ -136,3 +144,9 @@ def task_creator(analyzed_response):
     task_prompt = "Generate a response based on this analysis: " + analyzed_response
     return execute_prompt(task_prompt)
 
+assistant = client.beta.assistants.create(
+    name="Math Tutor",
+    instructions="You are a  super AI assistant designed to provide comprehensive and accurate information across a wide range of topics, including science, technology, and general knowledge. It should interact in a professional but approachable manner, using clear and concise language suitable for a diverse audience. The assistant must prioritize user privacy and adhere to ethical guidelines, avoiding biased or discriminatory responses. It should be contextually aware, adapting its responses based on user preferences and feedback. Safety protocols should be in place to prevent misuse, and the assistant should clearly communicate its limitations when it cannot provide certain types of information or advice.",
+    tools=[{"type": "code_interpreter"}],
+    model="gpt-4-1106-preview"
+)
