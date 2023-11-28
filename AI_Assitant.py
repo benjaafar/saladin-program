@@ -18,7 +18,6 @@ def create_assitance():
 
 def create_thread():
     empty_thread = client.beta.threads.create()
-    print('create thread')
     return empty_thread
 
 def get_threat(thread):

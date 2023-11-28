@@ -70,12 +70,13 @@ def main():
     
         # List all messages in the thread to get the response
             messages = AI_Assitant.list_messages(thread_id)
+            print(messages)
             for message in messages:
                 if message.role == 'assistant':
                     for item in message.content:
                         message_value = item.text.value
                         print(f"Assistant: {message_value} ")
-                        utils.save_conversation_history(message_value)
+                        utils.save_conversation_history(messages)
 
         except Exception as e:
             logging.error(f"Error during message processing: {e}")

@@ -1,1 +1,411 @@
 2023-11-25 23:04:59,991 ERROR:Error during message processing: [Errno 2] No such file or directory: '/files/conversation_history.json'
+2023-11-25 23:05:44,384 ERROR:Error during message processing: [Errno 2] No such file or directory: '/files/conversation_history.json'
+2023-11-27 17:15:57,522 ERROR:Error during message processing: [Errno 2] No such file or directory: '/files/conversation_history.json'
+2023-11-27 21:10:41,475 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:10:41,503 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:10:41,512 INFO: * Restarting with stat
+2023-11-27 21:10:44,614 WARNING: * Debugger is active!
+2023-11-27 21:10:44,626 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:11:16,513 INFO:127.0.0.1 - - [27/Nov/2023 21:11:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-11-27 21:11:17,045 INFO:127.0.0.1 - - [27/Nov/2023 21:11:17] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-11-27 21:11:17,071 INFO:127.0.0.1 - - [27/Nov/2023 21:11:17] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-11-27 21:11:17,585 INFO:127.0.0.1 - - [27/Nov/2023 21:11:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-11-27 21:12:38,674 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:12:38,910 INFO: * Restarting with stat
+2023-11-27 21:14:19,386 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:14:19,386 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:14:19,394 INFO: * Restarting with stat
+2023-11-27 21:14:23,541 WARNING: * Debugger is active!
+2023-11-27 21:14:23,559 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:14:33,154 INFO:127.0.0.1 - - [27/Nov/2023 21:14:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-11-27 21:14:33,497 INFO:127.0.0.1 - - [27/Nov/2023 21:14:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-11-27 21:14:33,509 INFO:127.0.0.1 - - [27/Nov/2023 21:14:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-11-27 21:14:33,607 INFO:127.0.0.1 - - [27/Nov/2023 21:14:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-11-27 21:14:33,741 INFO:127.0.0.1 - - [27/Nov/2023 21:14:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-11-27 21:16:48,945 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:16:49,263 INFO: * Restarting with stat
+2023-11-27 21:16:54,214 WARNING: * Debugger is active!
+2023-11-27 21:16:54,225 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:16:57,303 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:16:57,576 INFO: * Restarting with stat
+2023-11-27 21:17:01,935 WARNING: * Debugger is active!
+2023-11-27 21:17:01,954 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:17:08,579 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:17:08,579 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:17:08,588 INFO: * Restarting with stat
+2023-11-27 21:17:11,509 WARNING: * Debugger is active!
+2023-11-27 21:17:11,527 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:17:37,066 INFO:127.0.0.1 - - [27/Nov/2023 21:17:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-11-27 21:17:37,376 INFO:127.0.0.1 - - [27/Nov/2023 21:17:37] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-11-27 21:17:37,378 INFO:127.0.0.1 - - [27/Nov/2023 21:17:37] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-11-27 21:17:37,757 INFO:127.0.0.1 - - [27/Nov/2023 21:17:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-11-27 21:17:38,129 INFO:127.0.0.1 - - [27/Nov/2023 21:17:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-11-27 21:19:10,716 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:19:10,716 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:19:10,728 INFO: * Restarting with stat
+2023-11-27 21:19:14,093 WARNING: * Debugger is active!
+2023-11-27 21:19:14,101 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:19:18,561 INFO:127.0.0.1 - - [27/Nov/2023 21:19:18] "GET / HTTP/1.1" 200 -
+2023-11-27 21:19:19,103 INFO:127.0.0.1 - - [27/Nov/2023 21:19:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-27 21:19:41,702 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:19:41,702 INFO:127.0.0.1 - - [27/Nov/2023 21:19:41] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:22:33,864 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\utils.py', reloading
+2023-11-27 21:22:34,028 INFO: * Restarting with stat
+2023-11-27 21:22:42,809 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:22:42,809 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:22:42,819 INFO: * Restarting with stat
+2023-11-27 21:22:47,876 WARNING: * Debugger is active!
+2023-11-27 21:22:47,894 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:22:48,874 INFO:127.0.0.1 - - [27/Nov/2023 21:22:48] "GET / HTTP/1.1" 200 -
+2023-11-27 21:23:06,025 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:23:06,025 INFO:127.0.0.1 - - [27/Nov/2023 21:23:06] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:23:42,446 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:23:42,446 INFO:127.0.0.1 - - [27/Nov/2023 21:23:42] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:24:35,996 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\utils.py', reloading
+2023-11-27 21:24:36,172 INFO: * Restarting with stat
+2023-11-27 21:24:40,432 WARNING: * Debugger is active!
+2023-11-27 21:24:40,441 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:24:43,525 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\utils.py', reloading
+2023-11-27 21:24:43,880 INFO: * Restarting with stat
+2023-11-27 21:24:52,911 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:24:52,911 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:24:52,919 INFO: * Restarting with stat
+2023-11-27 21:24:57,225 WARNING: * Debugger is active!
+2023-11-27 21:24:57,244 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:25:09,922 INFO:127.0.0.1 - - [27/Nov/2023 21:25:09] "GET / HTTP/1.1" 200 -
+2023-11-27 21:25:36,967 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:25:36,967 INFO:127.0.0.1 - - [27/Nov/2023 21:25:36] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:25:51,258 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\utils.py', reloading
+2023-11-27 21:25:51,541 INFO: * Restarting with stat
+2023-11-27 21:25:55,172 WARNING: * Debugger is active!
+2023-11-27 21:25:55,191 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:25:57,300 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\utils.py', reloading
+2023-11-27 21:25:57,495 INFO: * Restarting with stat
+2023-11-27 21:26:05,439 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:26:05,441 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:26:05,443 INFO: * Restarting with stat
+2023-11-27 21:26:09,184 WARNING: * Debugger is active!
+2023-11-27 21:26:09,195 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:26:12,732 INFO:127.0.0.1 - - [27/Nov/2023 21:26:12] "GET / HTTP/1.1" 200 -
+2023-11-27 21:26:27,699 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:26:27,699 INFO:127.0.0.1 - - [27/Nov/2023 21:26:27] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:28:28,988 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\utils.py', reloading
+2023-11-27 21:28:29,225 INFO: * Restarting with stat
+2023-11-27 21:28:33,077 WARNING: * Debugger is active!
+2023-11-27 21:28:33,086 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:28:36,198 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\utils.py', reloading
+2023-11-27 21:28:36,470 INFO: * Restarting with stat
+2023-11-27 21:30:20,632 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:30:20,632 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:30:20,632 INFO: * Restarting with stat
+2023-11-27 21:30:25,097 WARNING: * Debugger is active!
+2023-11-27 21:30:25,112 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:30:25,176 INFO:127.0.0.1 - - [27/Nov/2023 21:30:25] "GET / HTTP/1.1" 200 -
+2023-11-27 21:30:36,768 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:30:36,768 INFO:127.0.0.1 - - [27/Nov/2023 21:30:36] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:32:13,304 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:32:13,598 INFO: * Restarting with stat
+2023-11-27 21:32:18,120 WARNING: * Debugger is active!
+2023-11-27 21:32:18,129 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:32:26,311 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\AI_Assitant.py', reloading
+2023-11-27 21:32:26,542 INFO: * Restarting with stat
+2023-11-27 21:32:30,435 WARNING: * Debugger is active!
+2023-11-27 21:32:30,443 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:33:27,126 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:33:27,126 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:33:27,135 INFO: * Restarting with stat
+2023-11-27 21:33:32,395 WARNING: * Debugger is active!
+2023-11-27 21:33:32,406 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:33:32,466 INFO:127.0.0.1 - - [27/Nov/2023 21:33:32] "GET / HTTP/1.1" 200 -
+2023-11-27 21:33:53,246 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:33:53,246 INFO:127.0.0.1 - - [27/Nov/2023 21:33:53] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:37:55,573 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:37:55,877 INFO: * Restarting with stat
+2023-11-27 21:37:59,858 WARNING: * Debugger is active!
+2023-11-27 21:37:59,873 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:38:01,953 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:38:02,330 INFO: * Restarting with stat
+2023-11-27 21:38:06,112 WARNING: * Debugger is active!
+2023-11-27 21:38:06,112 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:38:12,866 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:38:12,866 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:38:12,878 INFO: * Restarting with stat
+2023-11-27 21:38:17,045 WARNING: * Debugger is active!
+2023-11-27 21:38:17,060 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:38:27,276 INFO:127.0.0.1 - - [27/Nov/2023 21:38:27] "GET / HTTP/1.1" 200 -
+2023-11-27 21:38:49,083 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:38:49,086 INFO:127.0.0.1 - - [27/Nov/2023 21:38:49] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:42:49,948 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:42:50,240 INFO: * Restarting with stat
+2023-11-27 21:45:35,078 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:45:35,078 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:45:35,078 INFO: * Restarting with stat
+2023-11-27 21:45:39,646 WARNING: * Debugger is active!
+2023-11-27 21:45:39,661 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:45:39,713 INFO:127.0.0.1 - - [27/Nov/2023 21:45:39] "GET / HTTP/1.1" 200 -
+2023-11-27 21:46:02,953 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:46:02,953 INFO:127.0.0.1 - - [27/Nov/2023 21:46:02] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:48:59,703 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:49:00,015 INFO: * Restarting with stat
+2023-11-27 21:49:05,079 WARNING: * Debugger is active!
+2023-11-27 21:49:05,093 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:50:13,421 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:50:13,762 INFO: * Restarting with stat
+2023-11-27 21:50:17,363 WARNING: * Debugger is active!
+2023-11-27 21:50:17,368 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:50:30,576 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:50:30,577 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:50:30,582 INFO: * Restarting with stat
+2023-11-27 21:50:34,874 WARNING: * Debugger is active!
+2023-11-27 21:50:34,889 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:50:36,038 INFO:127.0.0.1 - - [27/Nov/2023 21:50:36] "GET / HTTP/1.1" 200 -
+2023-11-27 21:51:04,327 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:51:04,327 INFO:127.0.0.1 - - [27/Nov/2023 21:51:04] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:52:50,518 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:52:50,534 INFO:127.0.0.1 - - [27/Nov/2023 21:52:50] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:57:37,992 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:57:38,320 INFO: * Restarting with stat
+2023-11-27 21:57:42,604 WARNING: * Debugger is active!
+2023-11-27 21:57:42,612 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:57:45,704 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:57:45,998 INFO: * Restarting with stat
+2023-11-27 21:57:49,246 WARNING: * Debugger is active!
+2023-11-27 21:57:49,262 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:57:52,359 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:57:52,572 INFO: * Restarting with stat
+2023-11-27 21:57:55,835 WARNING: * Debugger is active!
+2023-11-27 21:57:55,856 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:58:01,871 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:58:01,872 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:58:01,872 INFO: * Restarting with stat
+2023-11-27 21:58:05,850 WARNING: * Debugger is active!
+2023-11-27 21:58:05,863 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:58:06,449 INFO:127.0.0.1 - - [27/Nov/2023 21:58:06] "GET / HTTP/1.1" 200 -
+2023-11-27 21:58:30,396 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 21:58:30,396 INFO:127.0.0.1 - - [27/Nov/2023 21:58:30] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 21:59:12,290 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:59:12,556 INFO: * Restarting with stat
+2023-11-27 21:59:16,709 WARNING: * Debugger is active!
+2023-11-27 21:59:16,716 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:59:17,785 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 21:59:18,005 INFO: * Restarting with stat
+2023-11-27 21:59:21,622 WARNING: * Debugger is active!
+2023-11-27 21:59:21,638 INFO: * Debugger PIN: 142-688-769
+2023-11-27 21:59:49,090 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 21:59:49,090 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 21:59:49,097 INFO: * Restarting with stat
+2023-11-27 21:59:52,437 WARNING: * Debugger is active!
+2023-11-27 21:59:52,445 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:00:00,633 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:00:00,780 INFO: * Restarting with stat
+2023-11-27 22:00:05,267 WARNING: * Debugger is active!
+2023-11-27 22:00:05,290 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:00:11,508 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:00:11,508 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:00:11,515 INFO: * Restarting with stat
+2023-11-27 22:00:15,790 WARNING: * Debugger is active!
+2023-11-27 22:00:15,797 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:00:15,854 INFO:127.0.0.1 - - [27/Nov/2023 22:00:15] "GET / HTTP/1.1" 200 -
+2023-11-27 22:00:31,022 ERROR:Error during message processing: 'list' object has no attribute 'text'
+2023-11-27 22:00:31,022 INFO:127.0.0.1 - - [27/Nov/2023 22:00:31] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:10:05,623 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:10:05,907 INFO: * Restarting with stat
+2023-11-27 22:10:38,987 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:10:38,987 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:10:38,995 INFO: * Restarting with stat
+2023-11-27 22:10:43,054 WARNING: * Debugger is active!
+2023-11-27 22:10:43,060 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:10:43,323 INFO:127.0.0.1 - - [27/Nov/2023 22:10:43] "GET / HTTP/1.1" 200 -
+2023-11-27 22:10:58,553 INFO:127.0.0.1 - - [27/Nov/2023 22:10:58] "[35m[1mPOST /send_message HTTP/1.1[0m" 500 -
+2023-11-27 22:11:46,346 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:11:46,602 INFO: * Restarting with stat
+2023-11-27 22:11:50,516 WARNING: * Debugger is active!
+2023-11-27 22:11:50,534 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:12:28,409 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:12:28,624 INFO: * Restarting with stat
+2023-11-27 22:12:32,653 WARNING: * Debugger is active!
+2023-11-27 22:12:32,667 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:12:37,817 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:12:38,246 INFO: * Restarting with stat
+2023-11-27 22:14:25,163 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:14:25,163 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:14:25,172 INFO: * Restarting with stat
+2023-11-27 22:14:30,098 WARNING: * Debugger is active!
+2023-11-27 22:14:30,111 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:14:35,550 INFO:127.0.0.1 - - [27/Nov/2023 22:14:35] "GET / HTTP/1.1" 200 -
+2023-11-27 22:14:46,176 INFO:127.0.0.1 - - [27/Nov/2023 22:14:46] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:14:59,749 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:14:59,962 INFO: * Restarting with stat
+2023-11-27 22:15:04,628 WARNING: * Debugger is active!
+2023-11-27 22:15:04,638 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:15:05,672 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:15:05,827 INFO: * Restarting with stat
+2023-11-27 22:15:21,454 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:15:21,454 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:15:21,462 INFO: * Restarting with stat
+2023-11-27 22:15:25,330 WARNING: * Debugger is active!
+2023-11-27 22:15:25,346 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:15:25,408 INFO:127.0.0.1 - - [27/Nov/2023 22:15:25] "GET / HTTP/1.1" 200 -
+2023-11-27 22:15:35,434 INFO:127.0.0.1 - - [27/Nov/2023 22:15:35] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:16:52,655 INFO:127.0.0.1 - - [27/Nov/2023 22:16:52] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:18:38,350 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:18:38,621 INFO: * Restarting with stat
+2023-11-27 22:18:42,949 WARNING: * Debugger is active!
+2023-11-27 22:18:42,961 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:18:44,022 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:18:44,259 INFO: * Restarting with stat
+2023-11-27 22:22:06,416 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:22:06,416 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:22:06,423 INFO: * Restarting with stat
+2023-11-27 22:22:10,392 WARNING: * Debugger is active!
+2023-11-27 22:22:10,405 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:22:17,639 INFO:127.0.0.1 - - [27/Nov/2023 22:22:17] "GET / HTTP/1.1" 200 -
+2023-11-27 22:22:40,410 INFO:127.0.0.1 - - [27/Nov/2023 22:22:40] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:23:20,856 INFO:127.0.0.1 - - [27/Nov/2023 22:23:20] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:25:49,684 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:25:49,977 INFO: * Restarting with stat
+2023-11-27 22:25:53,730 WARNING: * Debugger is active!
+2023-11-27 22:25:53,737 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:25:55,853 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:25:56,105 INFO: * Restarting with stat
+2023-11-27 22:26:00,296 WARNING: * Debugger is active!
+2023-11-27 22:26:00,302 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:26:01,353 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:26:01,645 INFO: * Restarting with stat
+2023-11-27 22:26:05,177 WARNING: * Debugger is active!
+2023-11-27 22:26:05,180 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:26:08,241 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:26:08,422 INFO: * Restarting with stat
+2023-11-27 22:26:11,958 WARNING: * Debugger is active!
+2023-11-27 22:26:11,966 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:26:14,015 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:26:14,341 INFO: * Restarting with stat
+2023-11-27 22:26:18,743 WARNING: * Debugger is active!
+2023-11-27 22:26:18,752 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:27:09,902 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:27:10,296 INFO: * Restarting with stat
+2023-11-27 22:27:29,422 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:27:29,422 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:27:29,431 INFO: * Restarting with stat
+2023-11-27 22:27:32,542 WARNING: * Debugger is active!
+2023-11-27 22:27:32,553 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:27:35,574 INFO:127.0.0.1 - - [27/Nov/2023 22:27:35] "GET / HTTP/1.1" 200 -
+2023-11-27 22:27:49,171 INFO:127.0.0.1 - - [27/Nov/2023 22:27:49] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:28:50,145 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:28:50,300 INFO: * Restarting with stat
+2023-11-27 22:28:54,184 WARNING: * Debugger is active!
+2023-11-27 22:28:54,184 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:28:56,282 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:28:56,598 INFO: * Restarting with stat
+2023-11-27 22:29:00,626 WARNING: * Debugger is active!
+2023-11-27 22:29:00,640 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:29:00,727 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:29:00,945 INFO: * Restarting with stat
+2023-11-27 22:29:04,630 WARNING: * Debugger is active!
+2023-11-27 22:29:04,630 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:29:06,700 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:29:06,926 INFO: * Restarting with stat
+2023-11-27 22:30:02,726 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:30:02,726 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:30:02,734 INFO: * Restarting with stat
+2023-11-27 22:30:06,390 WARNING: * Debugger is active!
+2023-11-27 22:30:06,391 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:30:24,311 INFO:127.0.0.1 - - [27/Nov/2023 22:30:24] "GET / HTTP/1.1" 200 -
+2023-11-27 22:30:44,641 INFO:127.0.0.1 - - [27/Nov/2023 22:30:44] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:31:05,639 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:31:05,832 INFO: * Restarting with stat
+2023-11-27 22:31:10,085 WARNING: * Debugger is active!
+2023-11-27 22:31:10,099 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:31:26,733 ERROR:Error during message processing: name 'pr' is not defined
+2023-11-27 22:31:26,733 INFO:127.0.0.1 - - [27/Nov/2023 22:31:26] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:32:00,174 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:32:00,174 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:32:00,181 INFO: * Restarting with stat
+2023-11-27 22:32:03,427 WARNING: * Debugger is active!
+2023-11-27 22:32:03,445 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:32:05,921 INFO:127.0.0.1 - - [27/Nov/2023 22:32:05] "GET / HTTP/1.1" 200 -
+2023-11-27 22:32:32,151 INFO:127.0.0.1 - - [27/Nov/2023 22:32:32] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:32:55,582 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:32:55,857 INFO: * Restarting with stat
+2023-11-27 22:32:59,179 WARNING: * Debugger is active!
+2023-11-27 22:32:59,195 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:33:29,476 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:33:29,476 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:33:29,483 INFO: * Restarting with stat
+2023-11-27 22:33:32,811 WARNING: * Debugger is active!
+2023-11-27 22:33:32,819 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:33:34,711 INFO:127.0.0.1 - - [27/Nov/2023 22:33:34] "GET / HTTP/1.1" 200 -
+2023-11-27 22:34:00,553 INFO:127.0.0.1 - - [27/Nov/2023 22:34:00] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:34:38,126 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:34:38,464 INFO: * Restarting with stat
+2023-11-27 22:34:42,681 WARNING: * Debugger is active!
+2023-11-27 22:34:42,696 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:34:54,971 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:34:55,374 INFO: * Restarting with stat
+2023-11-27 22:34:59,944 WARNING: * Debugger is active!
+2023-11-27 22:34:59,952 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:35:04,049 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:35:04,279 INFO: * Restarting with stat
+2023-11-27 22:35:08,881 WARNING: * Debugger is active!
+2023-11-27 22:35:08,898 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:35:15,953 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:35:15,953 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:35:15,961 INFO: * Restarting with stat
+2023-11-27 22:35:20,769 WARNING: * Debugger is active!
+2023-11-27 22:35:20,781 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:35:20,845 INFO:127.0.0.1 - - [27/Nov/2023 22:35:20] "GET / HTTP/1.1" 200 -
+2023-11-27 22:35:34,961 INFO:127.0.0.1 - - [27/Nov/2023 22:35:34] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:35:43,365 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:35:43,562 INFO: * Restarting with stat
+2023-11-27 22:35:47,887 WARNING: * Debugger is active!
+2023-11-27 22:35:47,893 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:35:52,054 INFO: * Detected change in 'C:\\Users\\benja\\saladin program\\app.py', reloading
+2023-11-27 22:35:52,432 INFO: * Restarting with stat
+2023-11-27 22:35:56,592 WARNING: * Debugger is active!
+2023-11-27 22:35:56,603 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:36:11,042 INFO:127.0.0.1 - - [27/Nov/2023 22:36:11] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:44:19,108 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:44:19,108 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:44:19,112 INFO: * Restarting with stat
+2023-11-27 22:44:24,247 WARNING: * Debugger is active!
+2023-11-27 22:44:24,260 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:44:24,315 INFO:127.0.0.1 - - [27/Nov/2023 22:44:24] "GET / HTTP/1.1" 200 -
+2023-11-27 22:45:13,700 INFO:127.0.0.1 - - [27/Nov/2023 22:45:13] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:46:08,603 INFO:127.0.0.1 - - [27/Nov/2023 22:46:08] "GET / HTTP/1.1" 200 -
+2023-11-27 22:46:25,874 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:46:25,874 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:46:25,890 INFO: * Restarting with stat
+2023-11-27 22:46:29,221 WARNING: * Debugger is active!
+2023-11-27 22:46:29,236 INFO: * Debugger PIN: 142-688-769
+2023-11-27 22:46:35,571 INFO:127.0.0.1 - - [27/Nov/2023 22:46:35] "GET / HTTP/1.1" 200 -
+2023-11-27 22:46:49,980 INFO:127.0.0.1 - - [27/Nov/2023 22:46:49] "POST /send_message HTTP/1.1" 200 -
+2023-11-27 22:49:52,238 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-27 22:49:52,238 INFO:[33mPress CTRL+C to quit[0m
+2023-11-27 22:49:52,244 INFO: * Restarting with stat

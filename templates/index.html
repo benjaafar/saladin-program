@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chat avec l'Assistant AI</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        #chat-container { width: 80%; margin: 0 auto; }
+        #chat-box { border: 1px solid #ddd; padding: 10px; height: 300px; overflow-y: scroll; }
+        #user-input { width: 100%; padding: 10px; box-sizing: border-box; }
+    </style>
+</head>
+<body>
+    <div id="chat-container">
+        <div id="chat-box"></div>
+        <textarea id="user-input" placeholder="Tapez votre message ici..." rows="3"></textarea>
+        <button onclick="sendMessage()">Envoyer</button>
+    </div>
+
+    <script>
+        document.getElementById('user-input').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                sendMessage();
+            }
+        });
+
+        function sendMessage() {
+            var userInput = document.getElementById('user-input').value;
+            document.getElementById('chat-box').innerHTML += `<div>Vous: ${userInput}</div>`;
+            document.getElementById('user-input').value = '';  // Efface le champ après l'envoi
+
+            fetch('/send_message', {
+                method: 'POST',
+                body: new URLSearchParams('message=' + userInput)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.response) {
+                    document.getElementById('chat-box').innerHTML += `<div>Assistant: ${data.response} </div>`;
+                } else {
+                    document.getElementById('chat-box').innerHTML += `<div>Assistant: Pas de réponse</div>`;
+                }
+            })
+            .catch(error => {
+                console.error('Erreur:', error);
+                document.getElementById('chat-box').innerHTML += `<div>Assistant: Erreur dans la réponse</div>`;
+            });
+        }
+    </script>
+</body>
+</html>
