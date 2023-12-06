@@ -27,6 +27,8 @@ def send_message():
         return jsonify({'error': 'Invalid input or input too long.'})
 
     try:
+        Assistant = AI_Assitant.get_assistant("sst_Rb6OUv3XjA9bnWib6buo9Ex9")
+        
         AI_Assitant.create_message(thread_id, "user", user_input)
         run = AI_Assitant.create_run(thread_id, assistant_id)
         
@@ -49,7 +51,11 @@ def send_message():
         if attempts == max_attempts:
             return jsonify({'error': 'Run did not complete in a timely manner.'})
 
+
+        assist = AI_Assitant.get_assistants()
+        print( assist)
         messages = AI_Assitant.list_messages(thread_id)
+        
         utils.save_conversation_history(messages)
         return jsonify({'response': messages[0].content[0].text.value })
 

@@ -11,7 +11,7 @@ def create_assitance():
       instructions="You are a  super AI assistant designed to provide comprehensive and accurate information across a wide range of topics, including science, technology, and general knowledge. It should interact in a professional but approachable manner, using clear and concise language suitable for a diverse audience. The assistant must prioritize user privacy and adhere to ethical guidelines, avoiding biased or discriminatory responses. It should be contextually aware, adapting its responses based on user preferences and feedback. Safety protocols should be in place to prevent misuse, and the assistant should clearly communicate its limitations when it cannot provide certain types of information or advice.",
       name="Math Tutor",
       tools=[{"type": "code_interpreter"}],
-      model="gpt-4",
+      model="gpt-4-1106-preview",
     )
     return my_assistant
 
@@ -67,9 +67,7 @@ def create_run(thread,assistant):
     thread_id=thread,
     assistant_id=assistant
 )
-    return run
-
-    
+    return run 
 
 def retreive_run(thread_id , run_id):
     run = client.beta.threads.runs.retrieve(
@@ -78,5 +76,14 @@ def retreive_run(thread_id , run_id):
     )
     return run
 
+def get_assistants():
+    my_assistants = client.beta.assistants.list(
+    order="desc",
+    limit="20",
+    )
+    return my_assistants.data
 
-
+def get_assistant(id):
+    my_assistant = client.beta.assistants.retrieve(id)
+    print(my_assistant)
+    return my_assistant

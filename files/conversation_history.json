@@ -1,52 +1,20 @@
 {
     "messages": [
         {
-            "assistant_id": "asst_wOzDdWVAQ9ADOYP3JS0gJyhX",
-            "thread_id": "thread_t8wztilOYNTzM5S6dJ1ksvqY",
-            "message_id": "msg_R4X9woSWwWAiRCVc6PFju7e3",
-            "date": 1701143471,
+            "assistant_id": "asst_B6I7axtC2F5YV0SXKxAfCyH3",
+            "thread_id": "thread_WxmDtIdERGVSlNcnfSR2KHbW",
+            "message_id": "msg_2VgGSLi51STq1xVl9S0HY7CG",
+            "date": 1701902608,
             "input_user": "assistant",
-            "message_value": "It seems like you want to end the conversation. If you have any more questions in the future, feel free to ask. Have a great day!"
+            "message_value": "Bonjour ! Comment puis-je vous aider aujourd'hui ?"
         },
         {
             "assistant_id": "N/A",
-            "thread_id": "thread_t8wztilOYNTzM5S6dJ1ksvqY",
-            "message_id": "msg_OFjPWWNPHF3qskS27cInhatJ",
-            "date": 1701143470,
+            "thread_id": "thread_WxmDtIdERGVSlNcnfSR2KHbW",
+            "message_id": "msg_38JldSuGg7wCwiwCRQQ7RXTM",
+            "date": 1701902606,
             "input_user": "user",
-            "message_value": "quit"
-        },
-        {
-            "assistant_id": "asst_wOzDdWVAQ9ADOYP3JS0gJyhX",
-            "thread_id": "thread_t8wztilOYNTzM5S6dJ1ksvqY",
-            "message_id": "msg_GriE3wdxIfFLMlntK3j1Vsqm",
-            "date": 1701143449,
-            "input_user": "assistant",
-            "message_value": "Achille est un personnage de la mythologie grecque, ce qui signifie qu'il n'est pas historiquement dat\u00e9. La Guerre de Troie, dans laquelle Achille a jou\u00e9 un r\u00f4le central selon l'Iliade d'Hom\u00e8re, est g\u00e9n\u00e9ralement plac\u00e9e autour du 13\u00e8me ou du 12\u00e8me si\u00e8cle avant J\u00e9sus-Christ selon les chronologies bas\u00e9es sur des sources litt\u00e9raires. Cependant, il convient de souligner que ce sont des estimations et que la r\u00e9alit\u00e9 historique de la Guerre de Troie et des figures comme Achille est un sujet de d\u00e9bat parmi les sp\u00e9cialistes."
-        },
-        {
-            "assistant_id": "N/A",
-            "thread_id": "thread_t8wztilOYNTzM5S6dJ1ksvqY",
-            "message_id": "msg_p4i97q0Xnrpx8FytJsbBIXyp",
-            "date": 1701143448,
-            "input_user": "user",
-            "message_value": "a quel date il a vecu "
-        },
-        {
-            "assistant_id": "asst_wOzDdWVAQ9ADOYP3JS0gJyhX",
-            "thread_id": "thread_t8wztilOYNTzM5S6dJ1ksvqY",
-            "message_id": "msg_h6xcfuYxamZnMANiBcMc0jY6",
-            "date": 1701143425,
-            "input_user": "assistant",
-            "message_value": "Achille est un personnage l\u00e9gendaire de la guerre de Troie, un h\u00e9ros de la mythologie grecque, r\u00e9put\u00e9 pour sa bravoure et sa force physique exceptionnelle, mais aussi pour son talon, qui est demeur\u00e9 son unique point faible apr\u00e8s qu'il a \u00e9t\u00e9 immerg\u00e9 dans le fleuve Styx par sa m\u00e8re Th\u00e9tis."
-        },
-        {
-            "assistant_id": "N/A",
-            "thread_id": "thread_t8wztilOYNTzM5S6dJ1ksvqY",
-            "message_id": "msg_G7l53qcySnJuAakbSgZnlmwl",
-            "date": 1701143424,
-            "input_user": "user",
-            "message_value": " une phrase sur Achille"
+            "message_value": "bonjour"
         }
     ]
 }
